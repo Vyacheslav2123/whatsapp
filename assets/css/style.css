@@ -169,7 +169,7 @@ td > a {
 }
 @media screen and (max-width: 800px) {
     #content {
-        padding: 0 10px;
+        padding: 0 40px;
     }
     .wrapper {
         margin-bottom: 80px;
@@ -187,6 +187,7 @@ td > a {
     }
     .table {
         overflow-x: scroll;
+        margin-bottom: 50px;
     }
     table {
         width: 700px;
