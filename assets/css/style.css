@@ -18,6 +18,7 @@ body {
     color: white;
     background: linear-gradient(102deg, #43814D 41.14%, #57865E 72.29%, #277733 97.59%);
     overflow-x: hidden;
+    min-height: 100vh;
 }
 li {
     list-style-type: none;
